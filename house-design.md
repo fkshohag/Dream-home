@@ -27,12 +27,21 @@ dream-home/
 │   ├── site/                      (2 images)
 │   └── archive/                   (old 2-story renders, kept for reference)
 │
-├── drawings/                      ← architectural drawing docs
+├── drawings/                      ← architectural drawing docs (English)
 │   ├── floor-plan.md              detailed plan + door/window schedule
 │   ├── elevations.md              W/N/E/S elevations with materials
 │   ├── structural-plan.md         columns + beams + foundation + slab
 │   ├── site-plan.md               compound layout + setbacks
 │   └── roof-plan.md               garden + tank + solar + future stair
+│
+├── drawings-bangla/   🇧🇩          ← Bengali drawings for the raj mistri
+│   ├── floor-plan-bangla.png            তলার নকশা
+│   ├── foundation-column-plan-bangla.png ভিত্তি ও কলাম
+│   ├── beam-slab-plan-bangla.png        বিম ও স্ল্যাব
+│   ├── roof-plan-bangla.png             ছাদের নকশা
+│   ├── elevation-west-bangla.png        পশ্চিম দিকের চিত্র
+│   ├── section-bangla.png               ক্রস সেকশন
+│   └── kaaj-nirdeshona.md               কাজের নির্দেশনা (mistri instructions)
 │
 ├── budget/                        ← cost & cashflow documents
 │   ├── cost-estimate.md           3 scenarios (basic / mid / premium)
