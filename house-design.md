@@ -35,13 +35,41 @@ dream-home/
 │   └── roof-plan.md               garden + tank + solar + future stair
 │
 ├── drawings-bangla/   🇧🇩          ← Bengali drawings for the raj mistri
-│   ├── floor-plan-bangla.png            তলার নকশা
+│   │  ─── Phase A: Civil/Structural ───
+│   ├── floor-plan-bangla.png             তলার নকশা
 │   ├── foundation-column-plan-bangla.png ভিত্তি ও কলাম
-│   ├── beam-slab-plan-bangla.png        বিম ও স্ল্যাব
-│   ├── roof-plan-bangla.png             ছাদের নকশা
-│   ├── elevation-west-bangla.png        পশ্চিম দিকের চিত্র
-│   ├── section-bangla.png               ক্রস সেকশন
-│   └── kaaj-nirdeshona.md               কাজের নির্দেশনা (mistri instructions)
+│   ├── beam-slab-plan-bangla.png         বিম ও স্ল্যাব
+│   ├── roof-plan-bangla.png              ছাদের নকশা
+│   ├── elevation-west-bangla.png         পশ্চিম দিকের চিত্র
+│   ├── section-bangla.png                ক্রস সেকশন
+│   ├── kaaj-nirdeshona.md                কাজের নির্দেশনা (general instructions)
+│   │  ─── Phase A: MEP & details ───
+│   ├── plumbing-plan-bangla.png          প্লাম্বিং নকশা (water + drainage)
+│   ├── electrical-plan-bangla.png        বিদ্যুৎ নকশা (switches, sockets, AC)
+│   ├── septic-tubewell-bangla.png        সেপ্টিক + নলকূপের নকশা
+│   ├── door-window-schedule-bangla.png   দরজা/জানালার নকশা (shop drawing)
+│   ├── bbs-reference-bangla.png          BBS - রড বাঁকানোর নকশা
+│   ├── mep-specifications.md             প্লাম্বিং ও বিদ্যুৎ specs
+│   ├── septic-tubewell-specs.md          সেপ্টিক ট্যাংক + নলকূপ specs
+│   ├── door-window-schedule.md           ১১ দরজা + ১২ জানালা পূর্ণ list
+│   ├── bbs-detailed.md                   বিস্তারিত BBS (৯.১ টন rod order)
+│   │  ─── Phase B: Finishing & site works ───
+│   ├── boundary-wall-gate-bangla.png     বাউন্ডারি ওয়াল + মূল ফটক
+│   ├── tile-pattern-bangla.png           টাইল প্যাটার্ন (floor + bath + kitchen)
+│   ├── kitchen-detail-bangla.png         রান্নাঘরের L-shape কাউন্টার নকশা
+│   ├── wardrobe-detail-bangla.png        ৩টা bedroom-এর built-in wardrobe
+│   ├── boundary-wall-gate.md             ২০৫ ft wall + ১৪' gate specs (~১৬ লক্ষ)
+│   ├── tile-guide.md                     ১,৫৫৫ sqft tile selection + install (~৩.৪ লক্ষ)
+│   ├── kitchen-wardrobe-detail.md        Kitchen + ৩ wardrobe interior (~৮-১২ লক্ষ)
+│   ├── chuktipotro-contract-template.md  বাংলা চুক্তিপত্র template
+│   │  ─── Phase C: Landscape, safety & post-build ───
+│   ├── landscape-rainwater-bangla.png    বাগান + বৃষ্টির পানি সংরক্ষণ নকশা
+│   ├── safety-emergency-bangla.png       নিরাপত্তা + জরুরি গাইড poster (printable)
+│   ├── landscape-rainwater.md            ২,৩৪,০০০L/yr rainwater + ফল/সবজি/ফুল list
+│   ├── emergency-safety.md               ভূমিকম্প/আগুন/cyclone/snake bite first aid
+│   ├── maintenance-schedule.md           মাসিক/বার্ষিক/১০-yr maintenance list
+│   ├── handover-checklist.md             ১২-section commissioning checklist
+│   └── mobile-quick-ref.md               মিস্ত্রির পকেট card (A4 print)
 │
 ├── budget/                        ← cost & cashflow documents
 │   ├── cost-estimate.md           3 scenarios (basic / mid / premium)
