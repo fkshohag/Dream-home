@@ -1,122 +1,95 @@
-# Ground Floor Plan — Detailed
+# Floor Plan & Design Decisions — 48' × 25' Home (based on `design 2.png`)
 
-*Single-story, 36'-6" × 36'-0" = 1,314 sqft. Verandah faces west (formal entry).*
+> Layout follows your sketch `diagram/design 2.png`: a **central-dining pinwheel** in a narrow **48'-0" (South↔North) × 25'-0" (East↔West)** envelope. Main verandah + gate on **SOUTH**, secondary door on **WEST**. Program: **3 bedrooms + 3 baths** (2 attached + 1 common), drawing, dining, kitchen, stair, verandah.
 
----
-
-## 1. Room schedule
-
-| # | Room | Width × Depth | Area | Floor finish | Ceiling | Door | Major fittings |
-|---|---|---|---:|---|---|---|---|
-| R1 | Front Verandah | 15'-0" × 6'-0" | 90 | Mosaic tile, charcoal grout | 9'-3" exposed slab + 1 light | 4'-0" segun front door | 2 wall sconces, 1 ceiling fan, brass house-number plate |
-| R2 | Drawing Room | 15'-0" × 14'-0" | 210 | 24×24" vitrified tile (marble-look) | Gypsum cove + pendant | 4'-0" sliding glass to verandah, 3'-0" to dining, 3'-0" to south door | Sofa set, console, TV wall, ceiling fan, AC sleeve |
-| R3 | Dining | 14'-0" × 12'-6" | 175 | 24×24" vitrified tile (matching) | Flat with single chandelier | 3'-0" to drawing, 3'-0" to kitchen, 3'-0" to common bath | 6-seat dining table, pendant light |
-| R4 | Master Bedroom | 14'-0" × 13'-0" | 182 | 16×16" homogeneous tile (warm tone) | Flat + fan + warm cove | 3'-0" to dining, 2'-6" to bath | King bed, wardrobe 7' × 2', dressing table, AC sleeve |
-| R5 | Attached Bath (Master) | 7'-6" × 5'-0" | 38 | Anti-skid 12×12" floor + 24×24" wall up to 7' | Waterproofed cement, 2 vents | 2'-6" PVC | Vanity, EWC, shower area, geyser provision |
-| R6 | Kitchen | 10'-0" × 9'-0" | 90 | Anti-skid 12×12" porcelain | False-ceiling with 4 LED | 3'-0" to dining, 3'-0" to north service | Granite L-counter 8' run, double sink, 4-burner gas stove, exhaust chimney |
-| R7 | Bedroom 2 | 13'-0" × 13'-0" | 169 | 16×16" homogeneous tile | Flat + fan | 3'-0" to dining hall | Double bed, wardrobe 6' × 2', study desk |
-| R8 | Common Bath | 5'-0" × 8'-0" | 40 | Anti-skid 12×12" + 24×24" wall tile up to 7' | Waterproofed + 1 vent | 2'-6" PVC | Vanity, EWC, shower curtain, geyser provision |
-| R9 | Bedroom 3 | 12'-0" × 13'-0" | 156 | 16×16" homogeneous tile | Flat + fan | 3'-0" to dining hall | Double bed, wardrobe 5' × 2' |
-| R10 | Stair Space (utility/future stair) | 7'-0" × 13'-0" | 91 | Plain cement screed (will be cut for stairs in Phase-2) | High window for daylight | 3'-0" to south compound (back door) | Wall-mount drying rack, storage shelves; rebar starters present in roof slab |
-| | **Total interior + verandah** | | **1,241 + 90 = 1,331** | | | | |
+*(Your sketch is drawn south-up; this document uses standard north-up convention. South = front = bottom.)*
 
 ---
 
-## 2. Door schedule
+## 1. Design Decisions
 
-| Code | Location | Size | Type | Material | Notes |
-|---|---|---|---|---|---|
-| D1 | Main entry (verandah → drawing) | 4'-0" × 7'-6" | Single-leaf flush | 4" thick segun (teak) | Brass handle, brass house-number, peephole, 3 stainless hinges |
-| D2 | South back door (stair-space → outside) | 3'-0" × 7'-0" | Single-leaf flush | Segun ply 1¾" | MS grill on outside, sliding bolt |
-| D3 | Drawing ↔ Dining | 3'-0" × 7'-0" | Single-leaf flush | Segun ply 1¾" | Or omit (keep open arch) |
-| D4 | Dining ↔ Kitchen | 3'-0" × 7'-0" | Single-leaf flush | Segun ply 1¾" | |
-| D5 | Kitchen → north service | 3'-0" × 7'-0" | Single-leaf flush | Segun ply with MS grill outside | |
-| D6 | Dining ↔ Master bedroom | 3'-0" × 7'-0" | Single-leaf flush | Segun ply | |
-| D7 | Master bedroom → Att. bath | 2'-6" × 7'-0" | PVC flush | PVC | Anti-water bottom rail |
-| D8 | Dining ↔ Bedroom 2 | 3'-0" × 7'-0" | Single-leaf flush | Segun ply | |
-| D9 | Dining ↔ Bedroom 3 | 3'-0" × 7'-0" | Single-leaf flush | Segun ply | |
-| D10 | Common Bath | 2'-6" × 7'-0" | PVC flush | PVC | |
-
-**Total doors:** 10 (1 premium + 8 standard interior + 2 PVC bath)
-
----
-
-## 3. Window schedule
-
-| Code | Room | Size (W × H) | Sill height | Type | Notes |
-|---|---|---|---|---|---|
-| W1 | Drawing room (W) | 8'-0" × 7'-0" | 1'-6" (low sill) | Aluminum sliding glass + MS grill + wood slat screen outside | Behind 3' chajja |
-| W2 | Drawing room (S) | 4'-0" × 5'-0" | 3'-0" | Aluminum sliding glass + MS grill | Garden view |
-| W3 | Master bedroom (N) | 5'-0" × 4'-0" | 4'-0" (high sill privacy) | Aluminum sliding glass + MS grill | Faces north neighbour |
-| W4 | Master bedroom (W) | 4'-0" × 5'-0" | 3'-0" | Aluminum sliding glass + MS grill | Behind 3' chajja |
-| W5 | Master bath | 2'-0" × 2'-0" | 6'-0" | Frosted glass + grill | Ventilation only |
-| W6 | Kitchen (N) | 4'-0" × 4'-0" | 4'-0" | Aluminum sliding glass + MS grill + exhaust fan opening | Cooking ventilation |
-| W7 | Bedroom 2 (E) | 5'-0" × 6'-0" | 3'-0" | Aluminum sliding glass + MS grill | Full-height, best view |
-| W8 | Bedroom 2 (N) | 4'-0" × 4'-0" | 4'-0" (high sill) | Aluminum sliding glass + MS grill | High-sill privacy |
-| W9 | Common bath | 2'-0" × 2'-0" | 6'-0" | Frosted glass + grill | Ventilation only |
-| W10 | Bedroom 3 (E) | 5'-0" × 6'-0" | 3'-0" | Aluminum sliding glass + MS grill | Full-height, best view |
-| W11 | Bedroom 3 (S) | 4'-0" × 5'-0" | 3'-0" | Aluminum sliding glass + MS grill | Garden view |
-| W12 | Stair space (S) | 3'-0" × 7'-0" | 1'-0" (almost full-height) | Aluminum sliding glass + MS grill | Daylight for stair + future shaft |
-
-**Total windows:** 12 (8 large sliding + 4 small fixed/vent)
+| # | Decision | Rationale |
+|---|---|---|
+| D1 | **Footprint 48' (N–S) × 25' (E–W) = 1,200 sqft**; verandah projects 6' south (≈150 sqft extra) | Matches your dimensions; keeps interior at 1,200 |
+| D2 | **Main entry + gate on SOUTH** (full-width verandah) | Best breeze + winter sun; faces road/approach |
+| D3 | **Secondary "West Gate" = 3'-6" door into Drawing room (west wall)** | Side-yard access as you marked |
+| D4 | **Room 2 (NE) & Room 3 (NW) = master suites** with attached baths | Quiet rear; cross-vent on long E/W walls |
+| D5 | **Room 1 (SE) = 3rd bedroom**, uses the common bath | Near entry → doubles as guest room |
+| D6 | **Dining = central hub** (no wasted corridor) | Connects all four quadrants efficiently |
+| D7 | **Stair = compact switchback at the SOUTH entry** (south-center, by main door); store under | Stair on south side as required; short travel; lands at future 2nd-floor opening |
+| D8 | **Kitchen on the NORTH external wall** (north-center), with north window + exhaust fan straight outside | Cooking heat/smoke vents directly outdoors — proper airflow |
+| D8a | **Service spine runs S→N: Stair (entry) → Dining (center) → Kitchen (north wall)** | Every spine element either sits at a door or on an outside wall |
+| D8b | **Room 2 & Room 3 doors at their SOUTH ends** (Room 3 → SW, Room 2 → SE), far from the north-center kitchen | Keeps kitchen smell/heat out of the bedrooms |
+| D11 | **Verandah is OUTSIDE the 48'** — the 48'-0" is the building only; the 6'-0" verandah projects south beyond it | Interior stays 1,200 sqft; verandah is extra covered area |
+| D9 | **Common bath central-east** ("Birth room" in sketch) | Serves Room 1 + guests off the dining |
+| D10 | **Structure: RCC frame, 3×5 = 15 columns**, isolated footings, future-2nd-floor ready | Economical spans (12'-6" × 12'-0") |
 
 ---
 
-## 4. ASCII plan with door/window codes
+## 2. Room Schedule
+
+| # | Room | Position | Size (ft) | Area (sqft) |
+|---|---|---|---|---:|
+| 1 | Verandah | South (proj.) | 25 × 6 | 150 |
+| 2 | Drawing Room | South-West | 11 × 16 | 176 |
+| 3 | Room 1 (bed) | South-East | 10 × 16 | 160 |
+| 4 | Stair | **South entry (center)** | 6 × 11 | 66 |
+| 5 | Dining | Center hub | 12 × 15 | 180 |
+| 6 | Common Bath | East-center | 7 × 6 | 42 |
+| 7 | Kitchen | **North-center (ON north wall)** | 8 × 10 | 80 |
+| 8 | Room 2 (master) | North-East | 11 × 13 | 143 |
+| 9 | Att. Bath 2 | in Room 2 | 6 × 5 | 30 |
+| 10 | Room 3 (master) | North-West | 11 × 12 | 132 |
+| 11 | Att. Bath 3 | in Room 3 | 6 × 5 | 30 |
+| 12 | Circulation/walls | — | — | ~161 |
+| | **Interior total** | | | **~1,200** |
+
+---
+
+## 3. Architecture Diagram (ASCII)
 
 ```
-                                    N ▲  (kitchen vents north)
-   ════════════════════════════════════════════════════════
-   ║         W3             ║   W6    ║        W8         ║
-   ║                        ║         ║                   ║
-   ║     MASTER BEDROOM     ║ KITCHEN ║   BEDROOM 2       ║
-   ║       14×13            ║  10×9   ║    13×13          ║
-W4 ║                        ║         ║                   ║ W7
-   ║                        ║   D5→   ║                   ║
-   ║      D6→ to dining     ║         ║   D8→ to dining   ║
-   ║      ╔══════╗          ║         ║                   ║
-   ║      ║ATT.B ║          ║         ║                   ║
-   ║      ║5×7.5 ║ W5       ║         ║                   ║
-   ║      ║ D7   ║          ║         ║                   ║
-   ■──────╚══════╝──────────■═════════■═══════════════════■
-   ║                                  ║                   ║
-   ║                                  ║    COMMON BATH    ║
-   ║         DINING                   ║      5×8          ║
-   ║         14×12'-6                 ║       W9          ║
-   ║         (heart of house)         ║      D10          ║
-   ║                                  ║                   ║
-   ■──────────────────────────────────■═══════════════════■
-   ║                                  ║                   ║
-   ║                        ║         ║                   ║
-   ║     DRAWING ROOM       ║ STAIR   ║   BEDROOM 3       ║
-   ║      15×14             ║ SPACE   ║    12×13          ║
-   ║                        ║  7×13   ║                   ║
-   ║                        ║         ║                   ║   W10
-   ║                        ║         ║                   ║
-   ║                W2      ║   W12   ║       W11         ║
-   ║     D1 → to verandah   ║   D2→   ║                   ║
-   ■──────D1───────────────−■─D2──────■═══════════════════■
-       ↓ W1                              south door
-   ┌──────────────────┐                ─── to compound
-   │   VERANDAH       │
-   │      15×6        │  ← MAIN GATE (W)
-   └──────────────────┘                                   S ▼
+                          NORTH (rear)
+  W ◄───────────────────────────────────────────────► E
+y48┌────────────┬───────────────┬─────────────────────┐
+   │ ROOM 3      │   KITCHEN      │   ROOM 2            │
+   │ (MASTER)    │   8'×10'       │   (MASTER)          │
+   │ 11'×12'     │ [N window +    │   11'×13'           │
+   │ ┌──────┐    │  exhaust fan]  │          ┌──────┐   │
+   │ │ATT B3│    ├───────┬────────┤          │ATT B2│   │
+   │ └──────┘    │       │        │          └──────┘   │
+   │             │  DINING (hub)  │   ┌───────────────┐ │
+   │             │   12'×15'      │   │  COMMON BATH  │ │
+   │             │                │   │    7'×6'      │ │
+y15├─────────────┴───┬────────────┴───┴───────────────┤ │
+   │ DRAWING ROOM    │    STAIR     │   ROOM 1 (BED)   │
+   │  11'×16'        │    6'×11'    │    10'×16'       │
+   │                 │  (at entry)  │                  │
+[D2]║◄ west door      │              │                  │
+y0 └─────────────────┤  D1 MAIN  ├──┴──────────────────┘
+   ┌─────────────────────────────────────────────────────┐
+   │              VERANDAH 25' × 6'  (main gate)           │
+   └─────────────────────────────────────────────────────┘
+                          SOUTH (front / road)
 
-   Door codes: D1–D10 (see schedule above)
-   Window codes: W1–W12 (see schedule above)
+   ✔ STAIR at the south entry   ✔ KITCHEN on the north wall (vents outside)
 ```
 
----
-
-## 5. Furniture & lifestyle notes
-
-- **Drawing room**: 3-seater + 2 single-seater segun sofa around a 4'×2' centre table; TV wall on the east side; bookshelf to the south.
-- **Dining**: 6-seat oval segun dining table under a single brass pendant; sideboard against the north wall.
-- **Master bedroom**: king-size bed against the south wall (avoid morning sun glare); 7'-wardrobe against the north wall.
-- **Bedroom 2 & 3**: double beds against the west walls (so east light wakes you in the morning but doesn't glare directly).
-- **Kitchen**: L-shape granite counter — sink on north window wall, stove on the east wall (away from window draft).
-- **Stair space**: temporary use as drying rack + storage; clear out when building Phase-2.
+> Schematic — exact partition positions tuned around the 15-column grid (see `structural-plan.md`). A cleaner rendered diagram is in `drawings/architecture-diagram.png`.
 
 ---
 
-*Reference: see also `drawings/elevations.md`, `drawings/structural-plan.md`, `drawings/site-plan.md`, `drawings/roof-plan.md`.*
+## 4. Circulation
+
+- **Main:** Verandah (S) → **D1** → entry/stair foyer → **Dining (center)** → branches to Drawing (SW), Room 1 (SE), Kitchen (N), Room 2 (NE), Room 3 (NW), Common Bath (E).
+- **Secondary:** **D2 west door** → directly into Drawing room.
+- **Vertical:** Stair (S-center) switchback → future 2nd-floor opening.
+
+---
+
+## 5. Door & Window Count (preliminary)
+
+- **Doors (10):** D1 main (4'×7'6"), D2 west (3'6"×7'), Drawing↔Dining (open), Room1, Room2, Room3, Kitchen service, 3× bath doors.
+- **Windows (13):** Drawing ×2, Room1 ×2, Room2 ×2, Room3 ×2, Kitchen ×1, 3× bath vents, Dining ×1.
+
+Detailed schedules + structural quantities → see `structural-plan.md` and `component-calculation.md`.

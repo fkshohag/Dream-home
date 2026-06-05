@@ -1,193 +1,171 @@
-# Structural Plan — Foundation, Columns, Beams, Slab
+# Structural Plan — 48' × 25' Single-Story Home
 
-*Designed for single-story load NOW + future 2nd-floor extension (Phase-2).*
-
----
-
-## 1. Grid layout
-
-**4 × 4 grid = 16 columns, uniform 12'-0" × 12'-2" bays**
-
-```
-                                  N ▲
-                A           B           C           D
-                0'        12'-0"      24'-0"       36'-0"
-   4   36'-6" ●C1─────────●C2─────────●C3─────────●C4
-              │           │           │           │
-              │           │           │           │
-              │           │           │           │
-   3   24'-4" ●C5─────────●C6─────────●C7─────────●C8
-              │           │           │           │
-              │           │           │           │
-              │           │           │           │
-   2   12'-2" ●C9─────────●C10────────●C11────────●C12
-              │           │           │           │
-              │           │           │           │
-              │           │           │           │
-   1    0'-0" ●C13────────●C14────────●C15────────●C16
-              0'        12'-0"      24'-0"       36'-0"
-              ◄── verandah cantilever 6'-0" west ──
-              (slab projects from line 1)
-```
-
-Column numbering: C1–C4 are the back (N) row; C13–C16 are the front (S) row.
+> RCC moment-frame on isolated pad footings, engineered for the narrow **48'-0" (N–S) × 25'-0" (E–W)** footprint and **future 2nd-floor** vertical extension. Designed to **BNBC 2020, Seismic Zone-2** (Dhaka/central region). All columns carry starter bars for Phase-2.
 
 ---
 
-## 2. Foundation plan
+## 1. Design Basis
 
-Each column sits on an **isolated RCC pad footing**, founded **4'-6" below natural
-ground level** on a 3" plain-cement-concrete (PCC) levelling course over a
-6" compacted brick-soling base.
+| Parameter | Value |
+|---|---|
+| Building use | Residential (single story, future G+1) |
+| Footprint | 48'-0" × 25'-0" = 1,200 sqft |
+| Code | BNBC 2020 |
+| Seismic zone | Zone-2, Z = 0.20 |
+| Basic wind speed | 65 m/s (Dhaka region) |
+| Soil safe bearing capacity (SBC) | **assumed 75 kN/m² (1.5 ksf)** — *confirm by soil test* |
+| Concrete grade | **M20** (footing/grade beam), **M20–M25** (column/slab) — 1:1.5:3 |
+| Steel grade | **500W** (fy = 500 MPa) — BSRM / AKS / KSRM |
+| Clear cover | Footing 50 mm · Column 40 mm · Beam 25 mm · Slab 20 mm |
+| Floor-to-roof | 10'-6" (9'-3" clear + 1'-3" beam/slab) |
+| Plinth height | 2'-6" above NGL |
+| Founding depth | 4'-6" below NGL |
 
-### Footing schedule
-
-| Column type | Footing size | Footing depth | Bottom reinforcement |
-|---|---|---|---|
-| Corner (C1, C4, C13, C16) | 5'-6" × 5'-6" | 1'-3" | T12 @ 5" c/c both ways |
-| Edge (C2, C3, C5, C8, C9, C12, C14, C15) | 5'-6" × 5'-6" | 1'-3" | T12 @ 5" c/c both ways |
-| Interior (C6, C7, C10, C11) | 6'-0" × 6'-0" | 1'-3" | T12 @ 5" c/c both ways |
-
-> **Soil-condition contingency**: If auger soil test shows SBC < 1.2 ksf,
-> upgrade to a **mat foundation** (9" thick RCC raft, 38' × 38' overall, with
-> T12 @ 5" c/c top + bottom both ways). Cost delta: ~ BDT 1.2 lakh.
-
-```
-   Footing detail (typical isolated pad):
-
-                  ┌───────────────────┐
-                  │  RCC column above │
-                  │  12" × 12"        │
-                  │                   │
-   NGL ────────── │ ─── pedestal ─── │ ←── 1'-6" pedestal
-                  │  12" × 18"        │
-                  ╞═══════════════════╡  ←── top of footing
-                  │                   │
-                  │  RCC footing      │  ←── 1'-3" thick
-                  │  5'-6" × 5'-6"    │
-                  ╞═══════════════════╡  ←── PCC 3" thick
-                  ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃  ←── brick soling 6"
-                  ───────────────────────  ←── 4'-6" below NGL
-                  (firm bearing strata)
-```
+> ⚠️ **Hold point:** Footing sizes below assume SBC = 75 kN/m². If the soil test reports lower, footings must be enlarged. Do not cast footings before the test is reviewed.
 
 ---
 
-## 3. Column schedule
+## 2. Column Grid (3 × 5 = 15 columns)
 
-| Member | Size | Concrete grade | Vertical reinforcement | Ties |
+```
+            A            B            C        ← grid lines E–W (x)
+            x=0          x=12.5'      x=25'
+            │            │            │
+   5  ●────────────●────────────●               y = 48'-0"  (NORTH)
+            │            │            │
+            │  bay       │  bay       │   12'-0"
+   4  ●────────────●────────────●               y = 36'-0"
+            │            │            │   12'-0"
+   3  ●────────────●────────────●               y = 24'-0"
+            │            │            │   12'-0"
+   2  ●────────────●────────────●               y = 12'-0"
+            │            │            │   12'-0"
+   1  ●────────────●────────────●               y = 0'-0"   (SOUTH)
+            │            │            │
+       └──── verandah cantilever 6'-0" projects SOUTH (no extra columns) ────┘
+
+   ●  = RCC column 12"×12"
+   Bays:  E–W = 2 × 12'-6"   |   N–S = 4 × 12'-0"
+```
+
+| Item | Value |
+|---|---|
+| Grid E–W | A = 0', B = 12'-6", C = 25'  → 2 bays @ 12'-6" |
+| Grid N–S | 1=0', 2=12', 3=24', 4=36', 5=48' → 4 bays @ 12'-0" |
+| Total columns | **15** |
+| Verandah | 6'-0" cantilever to south (column-free) |
+| Max clear span | 12'-6" (economical) |
+
+---
+
+## 3. Foundation — Isolated Pad Footings (15)
+
+| Footing | Location | Size (ft) | Depth | Reinforcement |
 |---|---|---|---|---|
-| **All 16 columns** | **12" × 12"** | M25 | 6 × T16 (Fe-500) | T10 @ 6" c/c general; T10 @ 3" c/c within 1' of beam-column joints |
+| **F1** (corner) ×4 | A1,C1,A5,C5 | 5'-0" × 5'-0" | 1'-3" | T12 @ 5" c/c both ways |
+| **F2** (edge) ×8 | B1,B5,A2,A3,A4,C2,C3,C4 | 5'-6" × 5'-6" | 1'-3" | T12 @ 5" c/c both ways |
+| **F3** (interior) ×3 | B2,B3,B4 | 6'-0" × 6'-0" | 1'-6" | T12 @ 4.5" c/c both ways |
 
-**Important: Phase-2 starter bars.** Each column's main bars are continued
-**4'-0" above the roof slab**, wrapped in oiled cloth + dry sand, capped with
-PVC end-caps. When Phase-2 is built, these become the dowels for the new
-columns above.
+**Footing build-up (bottom → top):**
+1. 6" brick flat soling (CC)
+2. 3" PCC (1:4:8) leveling course
+3. RCC pad footing (size/depth above), M20
+4. RCC pedestal 12"×18", up to plinth beam bottom
+
+> All footings tied together by **plinth (grade) beams** for seismic integrity (Zone-2 requirement).
 
 ---
 
-## 4. Beam plan (roof level — same level as future 1st-floor slab in Phase-2)
+## 4. Column Schedule
 
-```
-                                  N ▲
-              A           B           C           D
-              ●═══════════●═══════════●═══════════●     ← B1 (main beam, E-W)
-              ║           ║           ║           ║
-              ║ B5        ║ B6        ║ B7        ║ B8
-              ║(secondary)║           ║           ║
-              ║           ║           ║           ║
-              ●═══════════●═══════════●═══════════●     ← B2
-              ║           ║           ║           ║
-              ║ B9        ║ B10       ║ B11       ║ B12
-              ║           ║           ║           ║
-              ║           ║           ║           ║
-              ●═══════════●═══════════●═══════════●     ← B3
-              ║           ║           ║           ║
-              ║ B13       ║ B14       ║ B15       ║ B16
-              ║           ║           ║           ║
-              ║           ║           ║           ║
-              ●═══════════●═══════════●═══════════●     ← B4
-              ◄── B17 verandah cantilever beam ──►
-```
-
-### Beam schedule
-
-| Member | Size | Top steel | Bottom steel | Stirrups |
+| Mark | Size | Vertical bars | Ties | Count |
 |---|---|---|---|---|
-| Main beams B1–B4 (E-W) | 10" × 12" | 4 × T16 | 4 × T16 | T10 @ 6" c/c, @ 3" near supports |
-| Secondary beams B5–B16 (N-S) | 10" × 12" | 3 × T12 | 4 × T16 | T10 @ 6" c/c |
-| Verandah cantilever B17 | 10" × 12" | **5 × T16** (heavily reinforced top) | 3 × T12 | T10 @ 4" c/c, @ 3" at support |
+| **C1** (all) | 12" × 12" | 6 – T16 | T10 @ 5" (ends) / 6" (mid) | 15 |
+
+- Lap length: 50 × dia (≈ 32" for T16); stagger 50%.
+- **Phase-2 starter bars:** extend the 6-T16 verticals **3'-0" above roof slab**, wrapped/greased, for the future 2nd-floor columns.
+- Confinement: close ties (T10 @ 4") within L/6 of each joint (ductile detailing, Zone-2).
 
 ---
 
-## 5. Slab plan
+## 5. Beam Plan
 
-**Two-way RCC slab, 5" thick, M20**, supported on the 4×4 grid (max bay 12'-0" × 12'-2" → span/depth ratio ≈ 30, well within code).
+### Plinth beams (grade beams) — tie all footings
+| Mark | Size | Top | Bottom | Stirrups |
+|---|---|---|---|---|
+| **PB** | 10" × 12" | 3 – T16 | 3 – T16 | T10 @ 6" |
 
-```
-   Reinforcement:
-   - Bottom main:    T10 @ 5" c/c, parallel to short span
-   - Bottom distribution: T10 @ 5" c/c, perpendicular
-   - Top steel:      T10 @ 5" c/c (over supports only, ~ L/4 from supports)
-   - Verandah cantilever slab: T10 @ 4" c/c top, T8 @ 6" c/c bottom
+### Roof beams
+| Mark | Direction | Size | Top | Bottom | Stirrups |
+|---|---|---|---|---|---|
+| **MB** (main) | N–S (lines A,B,C) | 10" × 15" | 3 – T16 + 2 – T12 (support) | 3 – T16 | T10 @ 5"/8" |
+| **CB** (cross) | E–W (lines 1–5) | 10" × 12" | 2 – T16 | 3 – T16 | T10 @ 6" |
+| **VB** (verandah) | cantilever edge | 10" × 15" | 3 – T16 (top steel critical) | 2 – T12 | T10 @ 5" |
 
-   Slab finish (roof):
-   - 1" lime terracing (waterproofing)
-   - 2" brick-bat coba (slope 1:80 to four 4" PVC down-spouts)
-   - Tile finish in roof-garden zone, parapet 3'-6" tall
-
-   Future stair plug:
-   - Rectangular opening 8'-0" × 5'-0" cast in slab at R10 location
-   - Plugged with 6"-thick precast RCC slab section (removable)
-   - Edge bars: 4 × T16 frame around the opening
-```
+> Cantilever verandah: **top reinforcement is the main steel** — never reduce it. Provide back-span anchorage into line-1 beams ≥ cantilever length.
 
 ---
 
-## 6. Plinth plan
+## 6. Roof Slab
 
-```
-   Plinth beam (running along all 4 grid lines, both directions):
-   - Size: 10" × 12"
-   - Concrete: M20
-   - Top + Bottom: 4 × T16 main
-   - Stirrups: T10 @ 6" c/c
-   - DPC: 1.5" cement-sand 1:3 + waterproofing additive (Dr Fixit / Saver)
-   - Plinth filling: sand (compacted in 6" lifts to 95% Proctor) up to floor
-     finish level (+2'-6" above NGL)
-```
+| Parameter | Value |
+|---|---|
+| Type | Two-way RCC slab, M20 |
+| Thickness | **5"** (125 mm) |
+| Main steel | T10 @ 5" c/c (bottom, both ways) |
+| Top steel | T10 @ 6" c/c at supports / corners (anti-crack) |
+| Verandah slab | 5", cantilever — **top steel T10 @ 4" c/c**, anchored back |
+| Cover | 20 mm |
 
 ---
 
-## 7. Reinforcement summary (estimated)
+## 7. Stair (RCC switchback, south-center)
 
-| Member | Approx steel (kg) |
+| Parameter | Value |
+|---|---|
+| Type | Dog-legged (switchback), 2 flights + mid-landing |
+| Going / Riser | 10" going / 6" riser |
+| Waist slab | 6" RCC, M20 |
+| Width | 3'-3" per flight |
+| Main steel | T12 @ 6" (along span) + T10 @ 8" (distribution) |
+| Note | Built now to reach roof + serve future 2nd floor |
+
+---
+
+## 8. Lintels & Sun-shades
+
+- **Lintels:** 5" RCC over all doors/windows, 2 – T10 + T8 stirrups @ 6", bearing 9" each side.
+- **Chajja (sun-shade):** 4" RCC, 2'-0"–3'-0" projection over south/west openings, T8 @ 6" top steel.
+
+---
+
+## 9. Concrete & Steel Summary (see `component-calculation.md` for full take-off)
+
+| Item | Quantity |
 |---|---:|
-| 16 footings | 850 |
-| 16 columns × 12'-6" + 4'-0" starters | 1,920 |
-| Plinth beams (260 rft) | 580 |
-| Main + secondary beams (roof level) | 1,650 |
-| Verandah cantilever beam + slab | 320 |
-| Slab (1,500 sqft net) | 2,100 |
-| Stair plug + miscellaneous | 180 |
-| **Total** | **≈ 7,600 kg (7.6 ton)** |
-
-(Detailed BOQ — see `budget/boq.md`.)
+| Total structural RCC | **55.9 m³ (≈1,973 cft)** |
+| PCC (lean) | 3.2 m³ (≈113 cft) |
+| Reinforcement steel | **9.3 ton** (≈166 kg/m³) |
+| Cement (structure share) | ≈ 458 bags |
 
 ---
 
-## 8. Future Phase-2 modifications (when building 1st floor)
+## 10. Future 2nd-Floor Provisions
 
-1. **Remove the precast plug** above R10 → install staircase.
-2. **Splice new column bars** onto the existing 4'-0" starter bars; cast new
-   12"×12" columns up to first-floor slab level.
-3. **New roof beams + slab** at first-floor level — same dimensions as current.
-4. **New mumty (stair cover)** above the stair opening, 8'-0" × 10'-0".
-5. **New balcony cantilever** — directly above the existing verandah cantilever
-   (uses the same beam line so structurally simple).
-
-> Phase-2 design files will be detailed when the owner is ready to extend.
+1. All 15 columns + footings sized for **G+1** (2 floors) already.
+2. Column **starter bars** project above the roof (greased/protected).
+3. Stair already lands at roof level — extend upward in Phase-2.
+4. Roof slab penetrations for future plumbing risers cast as sleeves.
+5. Phase-2 adds ≈ 18 lakh (see `docs/phase-2-extension.md`).
 
 ---
 
-*See also: `budget/boq.md` for materials totals.*
+## 11. Construction Hold Points (inspect before next step)
+
+1. Excavation depth & soil at founding level (vs. soil test).
+2. Footing rebar & cover **before** PCC/concrete pour.
+3. Column rebar, ties spacing & verticality before casting.
+4. Beam/slab rebar, cover blocks, electrical conduits before slab pour.
+5. Slab concrete cube samples (3 nos / pour) for 7 & 28-day test.
+
+> Bengali versions of these drawings for the mason → `drawings-bangla/`.

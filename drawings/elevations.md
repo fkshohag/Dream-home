@@ -1,157 +1,117 @@
-# Elevations — West, North, East, South
+# Elevations — 48' × 25' Single-Story Home
 
-*Single-story, flat RCC roof, parapet 3'-6". Plinth +2'-6" above ground level.*
-
----
-
-## 1. West Elevation (FRONT — main face)
-
-This is the elevation seen first by visitors entering through the new main gate
-from the internal road.
-
-```
-                +12'-6"    ════════════════════════════════════════
-                  parapet  │  ░░░░░ ROOF GARDEN PLANTERS ░░░░░    │
-                  cap      │  ░░░░░ visible behind parapet ░░░░░  │
-                           ╞══════════════════════════════════════╡
-                +9'-3"     │                                      │
-                  chajja   │     ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔        │   ← 3'-0" deep
-                  line     │                                      │     chajja
-                           │  ┌───┐                ┌────────┐  ┃  │
-                           │  │   │   │ │ │ │ │ │  │  ENTRY │  ┃  │
-                           │  │   │   │ │ │ │ │ │  │ DOOR   │  ┃  │  ← red-brick
-                           │  │ W4│   └─┘ └─┘ └─┘  │ D1 4'  │  ┃  │     accent
-                +2'-6"     │  │   │   wood slat    │ wide   │  ┃  │     column
-                  plinth   │  └───┘   screen W1    └────────┘  ┃  │
-                  band     ╞══════════════════════════════════════╡
-                  exposed  │     verandah floor (mosaic tile)     │
-                  brick    │     6 ft cantilever projection       │
-                  band     ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
-                +0'-0"        ground level (brick walkway)
-
-       ←--- 36'-6" overall width ---→  PLUS verandah 6'-0" cantilever
-```
-
-Materials & colours:
-- **Body:** smooth white snowcem
-- **Plinth band:** exposed red Akij/Mongla brick, 2'-6" tall
-- **Master-bedroom corner accent:** vertical red-brick column band, full height
-- **Slat screen:** 1"×3" segun (teak) verticals at 4" centres, 8'-0" tall
-- **Front door:** segun, brass handle, brass house-number "১২৩"
-- **Chajja:** 3'-0" deep with subtle drip groove on underside
-- **Parapet cap:** terracotta tile, 4" wide
+> Main facade is the **SOUTH** (25'-wide short side) with the full-width verandah + main gate. The **WEST** long facade carries the secondary door. Modern tropical style: white plaster, red-brick accent band, teak wood-slat sun screens, deep chajja.
 
 ---
 
-## 2. North Elevation (kitchen side, faces NE old home)
+## 1. South Elevation (FRONT — main facade)
+
+The public face on approach from the road. Width 25'-0".
 
 ```
-                +12'-6"  ════════════════════════════════════════
-                         │                                      │
-                         │     ░ planters peeking ░             │
-                         ╞══════════════════════════════════════╡
-                +9'-3"   │                                      │
-                         │   ▔▔▔▔▔▔   ▔▔▔▔▔▔   ▔▔▔▔▔▔           │   ← 2'-0" chajja
-                         │                                      │
-                         │   ┌───┐    ┌──────┐   ┌────┐         │   ← high-sill
-                         │   │W3 │    │  W6  │   │W8  │         │     windows
-                         │   │   │    │      │   │    │         │     (privacy)
-                         │   └───┘    └──────┘   └────┘         │
-                         │                                      │
-                +4'-0"   │                                      │
-                  sill   ╞══════════════════════════════════════╡
-                +2'-6"   │     exposed brick plinth             │
-                         ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
-                +0'-0"
-
-           ←--- 36'-0" overall depth ---→
+              ┌─────────────────────────────────┐  ← parapet +14'-0"
+              │  ▓ water tank      ☀ solar ▓     │
+   +10'-6"    ╞═════════════════════════════════╡  ← roof slab
+              │  ███ chajja (3'-0") over openings ███ │
+              │  ┌──────┐    ┌────┐    ┌──────┐  │
+   +7'-6"     │  │ W-Dr │    │ D1 │    │ W-R1 │  │
+              │  │glass │    │main│    │window│  │
+              │  └──────┘    └────┘    └──────┘  │
+              ╞══[ VERANDAH cantilever roof 6' ]══╡
+   +9'-0"     │   ▌col      ▌col      ▌col       │  ← 3 verandah columns
+   +2'-6"     ┝━━━━━━━ plinth (red brick) ━━━━━━━┥
+    0'-0"     └──────── steps ── ground ─────────┘
+                          25'-0" wide
 ```
 
-- **High-sill (4'-0") windows** prevent direct line of sight to the NE/NW old homes
-- A small **kitchen service door** (3'-0" wide, MS-grill outside) is set between the kitchen window and the master-bedroom window
-- **Kitchen exhaust** vents through a 10" stainless duct exiting under the chajja
-
----
-
-## 3. East Elevation (back — own boundary, best view side)
-
-This is the **most generous façade** for windows because it overlooks only your own
-boundary wall and paddy field beyond. Bedrooms 2 and 3 get the best morning light.
-
-```
-                +12'-6"  ════════════════════════════════════════
-                         │                                      │
-                         │                                      │
-                         ╞══════════════════════════════════════╡
-                +9'-3"   │                                      │
-                         │   ▔▔▔▔▔▔▔▔   ▔▔▔▔▔  ▔▔▔▔▔▔▔▔         │   ← 2'-0" chajja
-                         │                                      │
-                         │  ┌─────────┐ ┌─┐ ┌─────────┐         │   ← floor-to-
-                         │  │   W7    │ │W│ │  W10    │         │     ceiling
-                         │  │         │ │9│ │         │         │     vertical
-                         │  │ BR2     │ │ │ │ BR3     │         │     sliding
-                         │  │ window  │ │ │ │ window  │         │     windows
-                         │  │         │ │ │ │         │         │
-                         │  │ 5×6     │ │ │ │ 5×6     │         │
-                +3'-0"   │  │         │ └─┘ │         │         │
-                  sill   │  └─────────┘     └─────────┘         │
-                +2'-6"   ╞══════════════════════════════════════╡
-                         │     exposed brick plinth             │
-                +0'-0"   ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
-
-           ←--- 36'-0" overall depth ---→
-```
-
----
-
-## 4. South Elevation (back / secondary entry to compound)
-
-```
-                +12'-6"  ════════════════════════════════════════
-                         │     ░ solar panels (tilted W) ░      │
-                         ╞══════════════════════════════════════╡
-                +9'-3"   │                                      │
-                         │     ▔▔▔▔▔▔▔   ▔▔▔▔▔   ▔▔▔▔▔▔▔        │   ← 2'-0" chajja
-                         │                                      │
-                         │   ┌─────┐    ┌──────┐    ┌─────┐     │
-                         │   │ W2  │    │ W12  │    │W11  │     │   ← stair-space
-                         │   │     │    │      │    │     │     │     tall window
-                         │   │     │    │      │    │     │     │     for daylight
-                         │   │     │    │      │    │     │     │
-                +1'-0"   │   │     │    │      │    │     │     │
-                  sill   │   └─────┘    └──┬───┘    └─────┘     │
-                  W12    │                 │D2                  │
-                         │                 │south door          │
-                +2'-6"   ╞═════════════════│══════════════════════╡
-                         │ ↓ brick walkway to flower bagan + S gate│
-                         ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
-                +0'-0"
-
-           ←--- 36'-6" overall width ---→
-```
-
-- **South door D2** — secondary entry from compound (flower bagan, south gate)
-- **Stair space tall window W12** — daylight + future stair shaft ventilation
-- **Solar panels** visible on the roof, tilted west
-
----
-
-## 5. Common materials & colours (whole house)
-
-| Surface | Spec |
+| Feature | Spec |
 |---|---|
-| External wall (body) | Smooth cement plaster + Snowcem (white) — apply 2 coats |
-| External wall (accent) | Exposed red Akij brick band, 2'-6" plinth + corner column |
-| Roof parapet | Snowcem white + terracotta tile cap |
-| Chajja & sunshade underside | Snowcem white with subtle drip groove |
-| Window frames | Anodized aluminum (charcoal grey) |
-| Window grills | Mild steel 1"×¼" flats, matte black powder-coat |
-| Front door (D1) | Segun (teak) flush, polyurethane natural finish |
-| Other external doors | Segun ply with MS grill outside |
-| Verandah flooring | Mosaic terrazzo tile, charcoal grout |
-| Verandah ceiling | Timber-look ceramic plank |
-| Slat screen | Segun verticals, polyurethane finish |
+| Verandah | 25' × 6', cantilever roof, 3 decorative columns 9" dia |
+| Main door D1 | 4'-0" × 7'-6", solid teak, centered |
+| W-Dr (drawing) | 6'-0" × 4'-0" sliding glass + grill |
+| W-R1 (Room 1) | 4'-0" × 4'-0" sliding + grill |
+| Chajja | 3'-0" deep over all south openings |
+| Plinth | 2'-6" exposed red brick band |
+| Finish | white snowcem + red-brick accent |
 
 ---
 
-*See also: `drawings/floor-plan.md` for plan-level details.*
+## 2. West Elevation (LONG side — secondary entry)
+
+Faces the side yard / "west gate." Length 48'-0".
+
+```
+   ┌────────────────────────────────────────────────────┐ parapet
+   │ ☀ solar tilt        roof garden planter             │
+   ╞════════════════════════════════════════════════════╡ roof
+   │ ██chajja██   ██chajja██        ██chajja██   ██chajja██│
+   │  ┌────┐  ┌────┐   ┌──────┐    ┌────┐  ┌────┐         │
+   │  │W-R3│  │ATT │   │ WEST │    │W-Dr│  │ slat│        │
+   │  │    │  │vent│   │ DOOR │    │    │  │screen        │
+   │  └────┘  └────┘   └──────┘    └────┘  └────┘         │
+   ┝━━━━━━━━━━━━━━ plinth (red brick) ━━━━━━━━━━━━━━━━━━━━┥
+   └────────────────────────────────────────────────────┘
+     NORTH end ◄──────────── 48'-0" ────────────► SOUTH end
+```
+
+| Feature | Spec |
+|---|---|
+| West door D2 | 3'-6" × 7'-0", solid teak (into Drawing room) |
+| Wood-slat screen | teak 1"×3" @ 4" gap — sun + privacy over west glass |
+| Windows | Room 3, Drawing room + bath vent |
+| Chajja | 2'-6" deep (afternoon west sun control) |
+
+---
+
+## 3. East Elevation (LONG side — service/private)
+
+Faces the neighbour side. Length 48'-0".
+
+| Feature | Spec |
+|---|---|
+| Windows | Room 1, Room 2, common bath (obscured glass) |
+| Att. Bath 2 vent | high-level louver |
+| Finish | white plaster, minimal openings for privacy |
+| Chajja | 2'-0" over windows |
+
+---
+
+## 4. North Elevation (REAR — service)
+
+Faces the rear yard. Width 25'-0".
+
+| Feature | Spec |
+|---|---|
+| Kitchen window + exhaust | 4'-0" × 3'-0" + exhaust fan louver (the vent path) |
+| Room 2 / Room 3 windows | 4'-0" × 4'-0" each |
+| Service door | optional 3'-0" from kitchen to rear yard |
+| Finish | plaster; utility zone |
+
+---
+
+## 5. Materials & Finishes (all elevations)
+
+| Element | Finish |
+|---|---|
+| Walls | White snowcem / weather-coat over plaster |
+| Accent band | Exposed red-brick (plinth + feature strip) |
+| Sun screens | Teak / treated wood slats |
+| Doors | Solid teak (main), teak/partex (internal) |
+| Windows | Aluminium sliding + MS safety grill |
+| Chajja/parapet | RCC, painted white |
+| Verandah floor | Anti-skid ceramic / red oxide |
+
+---
+
+## 6. Height Schedule
+
+| Level | Elevation |
+|---|---|
+| Ground (NGL) | 0'-0" |
+| Plinth / FFL | +2'-6" |
+| Lintel | +7'-6" |
+| Roof slab (FFL→top) | +10'-6" |
+| Parapet top | +14'-0" |
+| Verandah column | 9'-0" clear |
+
+Cross-section detail → `drawings/section.png`. Roof layout → `drawings/roof-plan.md`.
